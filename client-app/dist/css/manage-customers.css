@@ -1,0 +1,15 @@
+.recycle{
+    text-align: center;
+}
+
+#tblCustomers tbody tr{
+    cursor: pointer;
+}
+
+#tblCustomers tbody{
+    background-color: white;
+}
+
+.recycle:hover{
+    color: red;
+}
